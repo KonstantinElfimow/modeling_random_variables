@@ -1,0 +1,2 @@
+# modeling_random_variables
+Моделирование случайных величин
